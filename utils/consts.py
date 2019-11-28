@@ -1,0 +1,1 @@
+BASE_PATH = 'F:/Project/Python/FacetExtract/'
